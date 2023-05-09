@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 INSPIRATIONS:
+https://github.com/andreustimm/andreustimm
 ### Hi there! My name is Andreus Timm, I am a PHP/Javascript Senior Software Engineer
 
 I have been working with technology for 20 years and as a Developer for 17 years. I have a large experience in Web Development and Mobile, DevOps, Infrastructure, Databases, Fullstack, Full Cycle, Analysis of Systems, and agile project management with observability and CI/CD. I have collaborated on projects like NFePHP, CodeIgniter, Adobe Magento, Magento Modules _(Pagseguro, Mercado Pago, Paypal, Jadlog)_, and other PHP Open Source projects. I’m a native Leader, proactive and communicative.
