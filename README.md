@@ -6,7 +6,7 @@
 
 **Languages**
 - English - Advanced / Fluent
-- Spanish - Basic
+- Spanish - Advanced
 - Portuguese - Native
 
 <!--
